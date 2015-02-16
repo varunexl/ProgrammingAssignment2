@@ -1,28 +1,4 @@
- Skip to content
-This repository
 
-    Explore
-    Gist
-    Blog
-    Help
-
-    varunexl varunexl
-
-    1 
-
-1
-
-    42,866
-
-sefakilic/coursera-rprog-assignment2 forked from rdpeng/ProgrammingAssignment2
-
-coursera-rprog-assignment2/cachematrix.R
-Sefa Kilic sefakilic on 27 Apr 2014
-solution added
-
-2 contributors
-Roger D. Peng Sefa Kilic
-62 lines (54 sloc) 1.773 kb
 # Matrix inversion is usually a costly computation and there may be some benefit
 # to caching the inverse of a matrix rather than compute it repeatedly. The
 # following two functions are used to cache the inverse of a matrix.
@@ -77,17 +53,4 @@ inv
 ## [1,] 1.0666667 0.2666667
 ## [2,] 0.2666667 1.0666667
 ## >
-
-    Status
-    API
-    Training
-    Shop
-    Blog
-    About
-
-    © 2015 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Contact
 
